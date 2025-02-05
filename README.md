@@ -7,7 +7,7 @@ testassdad
 this is my first upate hi this is my first update
 hello 
 hi
-all guys whts up aruns
+all guys whts up aruna
 this is my final repo adsadad
 this is the update
 this is newipdate
